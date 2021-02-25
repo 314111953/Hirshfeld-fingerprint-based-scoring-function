@@ -5,7 +5,7 @@ Open the cif file in Crystal explorer
 Click on each atom of the ligand
 Generate 2D Hirshfeld fingerprint
 Creation of fingerprint creates a file with the extension .cxs
-In the directory of the cxs file, put these scripts
+In the directory of the cxs file, put these scripts (directory should contain only one cxs file)
 Hfingerprinter.sh
 Hirsh1 to Hirsh12
 Execute Hfingerprinter.sh 
